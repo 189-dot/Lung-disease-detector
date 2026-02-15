@@ -1,1 +1,1 @@
-# Lung-disease-detector
+# Lung-disease-cls
